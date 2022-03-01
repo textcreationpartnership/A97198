@@ -1,0 +1,221 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvarning-peece to the Commons, Commissioners, Army ge, nerall [sic], which now sit as judges on His Majesties sacred person, in the behalfe of the whole kingdome. Written by one that feares God, and honors his King, and prayeth for the peace of England</title>
+            <author>One that feares God, and honors his King.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97198</idno>
+            <idno type="STC">Wing W935D</idno>
+            <idno type="STC">ESTC R204002</idno>
+            <idno type="EEBO-CITATION">99895810</idno>
+            <idno type="PROQUEST">99895810</idno>
+            <idno type="VID">153735</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97198)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153735)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2376:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvarning-peece to the Commons, Commissioners, Army ge, nerall [sic], which now sit as judges on His Majesties sacred person, in the behalfe of the whole kingdome. Written by one that feares God, and honors his King, and prayeth for the peace of England</title>
+                  <author>One that feares God, and honors his King.</author>
+               </titleStmt>
+               <extent>[2], 10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[S.l. :</pubPlace>
+                  <date>Printed in the yeere. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p.1 reads: A vindication of the army, by way of recrimination against the Lords &amp; Commons, &amp;c.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649 --  Trials --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153735:1" rendition="simple:additions"/>
+            <pb facs="tcp:153735:2" rendition="simple:additions"/>
+            <pb facs="tcp:153735:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:153735:3" rendition="simple:additions"/>
+            <pb facs="tcp:153735:3"/>
+            <p>A WARNING-PEECE TO THE Commons, Commiſsioners, Army Ge<g ref="char:EOLunhyphen"/>nerall, which now ſit as Judges ON HIS Majeſties ſacred Perſon, In the behalfe of the whole <hi>Kingdome.</hi>
+            </p>
+            <p>
+               <hi>Written by one that feares God, and honors his King, and prayeth for the peace of England.</hi>
+            </p>
+            <p>Printed in the Yeere. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153735:4"/>
+            <pb n="1" facs="tcp:153735:4"/>
+            <head>A Vindication of the Army, by way of re<g ref="char:EOLhyphen"/>crimination againſt the Lords &amp; Commons, &amp;c.</head>
+            <p>THe name and title of Army and Souldier hath of late been as formidable and odious as Sequeſtrator, Excize, Committee, or Parliament-man. And the complaint of the Lords, Commons and City of London have cauſed the greateſt part of this hate and rancour againſt the Army. I therefore challenge them not with ſword, for they are moſt of them errand cowards, but with my pen, and bid them ſe<g ref="char:EOLhyphen"/>verally anſwer if they can.</p>
+            <p>And firſt thou ô City, why and with what face canſt thou complain of me while I call for Juſtice, and the ſtrict execution thereof, when as thou thy ſelf firſt madeſt the loud cry to the Parliament for Juſtice, and thereby moſt unjuſtly ſheddeſt the blood of the innocent?</p>
+            <p n="2">2. Why and with what face complaineſt thou of the Army for exclu<g ref="char:EOLhyphen"/>ding ſome Members from the Parliament, who didſt never ceaſe bawling at the Parliament doores for the ejection of the moſt ancient and moſt rightfull Members in Parliament?</p>
+            <p n="3">3. Why and with what face complaineſt thou of the Army for taking aſſeſſe and quartering upon you, who were the firſt principall raiſer of this Army, and were ever well content that others ſhould pay and give free quarter?</p>
+            <p n="4">4. Thou O City who haſt raiſed and firſt haſt maintained this Army to be as a rod or ſword of God, why and with what face canſt thou deny them 40000. <abbr>l.</abbr> granted them, and much more by an Ordinance, when thou haſt moſt ambitiouſly ſued, that thou mighteſt freely give many millions for the conquering the King, aboliſhing Religion, and ſubjecting the Lawes, Liberties, and properties of all the Subjects in England to an arbitrary power? Yea and when it was put into thy hands to have reme<g ref="char:EOLhyphen"/>died all, yet then for fear, falſhood or trechery, thou forſookeſt thy ſelf, and betrayedſt the whole Kingdome.</p>
+            <p>
+               <hi>Thinkeſt thou therefore</hi> (ô City) <hi>that judgest them which do ſuch things and doeſt, the ſame that thou ſhalt eſcape the judgement of God?</hi> Rom. 2.3. No, heare what God hath ſpoken, <hi>The ſpoiler is come upon her even upon Babilon the great City,</hi> Revel. 18. <hi>and her mighty men are taken, for the Lord God of recompences ſhall ſurely requite,</hi> Jer. 51.5.6.</p>
+            <p>
+               <pb n="2" facs="tcp:153735:5"/>
+And ye Commons, why and with what face can ye complain of the Ar<g ref="char:EOLhyphen"/>my for their Remonſtrance and Declarations tending to Juſtice and pub<g ref="char:EOLhyphen"/>like good, when your ſelves have publiſht ſuch groſſe ſlanderous and im<g ref="char:EOLhyphen"/>pudent lies both in Declarations and Remonſtrances, thereby to cheat the People, to the Kings deſtruction, and the Kingdomes ruine?</p>
+            <p n="2">2. Why and with what face can ye complain of the Army for impriſo<g ref="char:EOLhyphen"/>ning ſome of your Members, in Royal and great houſes, when your ſelves have driven ſo many thouſands of Clergy and Laity out of their free<g ref="char:EOLhyphen"/>holds, and thruſt too many by thouſands into noyſome and cloſe priſons, to the loſſe both of liberty and life, and yet never to this houre ſhewing any cauſe why?</p>
+            <p n="3">3. Why and with what face complaine ye of the Army for excluding ſome of your Members from your houſe? when ye your ſelves a firſt, ſe<g ref="char:EOLhyphen"/>cond, and third time ſent up forged Bills for the utter caſting out of the Biſhops from their moſt ancient and moſt juſt ſitting in the upper Houſe, and at laſt by threats and menaces put upon the Lords, forced them to give their moſt diſhonourable and unconſcionable aſſent thereunto: Yea and did not this alone to the Members of the Lords Houſe, but did as much or more even to your own, either by not admitting ſuch though rightly e<g ref="char:EOLhyphen"/>lected, or by threats and force driving them away by 200. at a clap; which was the onely true cauſe of their ſitting at Oxford.</p>
+            <p n="4">4. Why and with what face complain ye of the Army for breaking the Lawes and Priviledges of Kingdome and Parliament, when ye your ſelves have been not only Authors and Actors, but Teachers and Inſtructers of them by your examples to do the like to you, as you have done both to your Soveraigne Lord the King, and to your fellow Subjects?</p>
+            <p n="5">5. Why and with what face complain ye of the Army, for baniſhing all ill affected to them 10. miles from London for a moneth? when as your ſelves have baniſht all ill affected to you, 20. miles thence ſometimes for 2. at other times for 6. moneths; and that on no leſſe penalty then High Treaſon, and accordingly to be arraigned, tryed and executed as Traytors without mercy.</p>
+            <p n="6">6. Why and with what face complain ye of the Army, for committing your Members to cuſtody? when as your ſelves the 15. June 1648. authori<g ref="char:EOLhyphen"/>zed any 3. of your Houſe (though thoſe Colonels and cloſe friends to the Army,) to ſeize impriſon and carry away Subjects free from Delinquency, to our Army lying then before Colcheſter.</p>
+            <p n="7">7. Why and with what face complain ye of the Army, for calling you corrupt falſe trayterous Members? who 21. April. 1648. gave power to any 3. Committee-men in all the ſeverall Counties in England to ſeque<g ref="char:EOLhyphen"/>ſter
+<pb n="3" facs="tcp:153735:5"/>and impriſon any whom theſe Committee-men ſhould judge or deem to have ſpoken reproachfully againſt the proceedings of this Parliament.</p>
+            <p>I could be infinite in the inlarging your unjuſt and unequall complaints againſt the Army, judging and condemning them for thoſe and the like things, wherein your ſelves have been moſt guilty: but I ſhall end all in this kind with a word to the Gent. of the long Robe, Lawyers, as Mem<g ref="char:EOLhyphen"/>bers of your Houſe.</p>
+            <p n="8">8. And why, and what face complain ye of the Army for deſiring 1. That theſcattred and unknowne Lawes of this Kingdome, may be wiſely and carefully collected, and the beſt and fitteſt being culled out, to have them all printed and publiſht in one volum or body? 2. That they may be tranſlated or put into our own Engliſh and known tongue, whereby e<g ref="char:EOLhyphen"/>very ſubject may be able to read, underſtand and know what he is to do, and what to eſchew, what may ſave and what may deſtroy him; and that he may not be conſtrained to give twenty ſhillings or more for every ſpoonfull of compounded or ſophiſticated hot-water which may perhaps poyſon him or his Eſtate. 3. That the ſubject may not be compelled to trudge to four ſtanding Marts or yearly Faires kept in Weſtminſter Hall there to be forced to buy, and to be cheated in ſuch pedling commodi<g ref="char:EOLhyphen"/>ties (to ſay no worſe) as they might have better for leſſe money in their own Countreys.</p>
+            <p>I ſay why and with what faces complain you of the Army for this? when ye your ſelves theſe eight yeares and upwards have not only been ſilent, but conſenting, voting, acting to the deſtruction of all our ancient beſt Lawes: yet few or none can conceive to what end ye have done all this, except either for the advance of your own preſent baſe gaine, or elſe here<g ref="char:EOLhyphen"/>by to comply with the Grandees and Parliament drivers, to keep them from theſe juſt things which now the Army ſo earneſtly doe deſire,</p>
+            <p>Why and with what face complaine you of us, becauſe we being your ſervants would rule and govern you? when as you have been our maſters and teachers in the art, and accordingly under the pretence and name of Religion, Juſtice and publike good, have ridd your Maſters the people of this Kingdome, not only out of their fat, but their fleſh, and almoſt off their leggs too: And why may not we, being ſo many thouſands, who have with our blood conquered all, rule and reap the ſweet? as well as 3. or 400. of you have all the while injoyed the benefit of our travailes and hazards, dayly raking Offices, and heaping up riches, to the impoveriſh<g ref="char:EOLhyphen"/>ing the Kingdome.</p>
+            <p>And to you we may add, as to the whole people of this Land, that as well may we be their rulers as you, or any other ſorts of the people, for
+<pb n="4" facs="tcp:153735:6"/>while they come to their ancient government, let them be aſſured that they ſhall be rid one while by one, another by another Faction, and ever by that which by turnes ſhall get the power, till in a ſhort time all will and muſt fall into ſuch confuſion, that we can expect no other rule or go<g ref="char:EOLhyphen"/>verment but cutting of throats.</p>
+            <p>But if any ſeriouſly ask me, why may not this State come to be gover<g ref="char:EOLhyphen"/>ned by an Ariſtocracy as well as Venice, and ſome parts of lower Germa<g ref="char:EOLhyphen"/>ny? I muſt anſwer, that the queſtion diſcovers ſo much ignorance in Po<g ref="char:EOLhyphen"/>liticall government, that it deſerves no anſwer, yet (in a word) who is ſo ignorant that he knowes not, beſides the unſpeakable danger of new modelling a State, as of new altering the temper of an old crazy body, that in this the body naturall and civill agree, that that diet, exerciſe, phyſick, government which preſerves the one body, may and will deſtroy the other, and that as Suits fit not every body, ſo neither are the tempers and diſpoſitions of all men taught and guided by the ſame rule and pow<g ref="char:EOLhyphen"/>er: <hi>England,</hi> within theſe 8. laſt yeares paſt, hath payed deare for the learning her Latine tongue, as Delinquent, Malignant, Sequeſter, Secure, Compound; and I dare ſay, two or three Greek words ſhalbe more worth to it then all thoſe, and the like, if they will underſtand and follow theſe, which is no more then <hi>Homer</hi> read long ago, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; each State a rule and Government muſt have, which the many deſtroy while the one doth ſave: or if you be<g ref="char:EOLhyphen"/>leeve not reaſon and truth, becauſe it comes from a Poet, yet heare and beleeve God which is truth it ſelfe, and who <hi>can neither deceive nor be de<g ref="char:EOLhyphen"/>ceived,</hi> and he tells you <hi>Prov.</hi> 28.2. <hi>For the trangreſſions of a land many are the Princes thereof, but by a man of underſtanding and knowledge the State ſhall be prolonged.</hi>
+            </p>
+            <p>In a word, O ye Commons, nor murmure nor complain any longer a<g ref="char:EOLhyphen"/>gainſt us, for ruling you and the reſt, for God hath ſpoken it and it ſhall come to paſſe, with what judgement ye judge ye ſhall be judged, Math. 7.2. And with what meaſure ye mete it ſhall be meaſured to you again: and Rom. 2.2. <hi>We are ſure</hi> (ſaith S. <hi>Paul</hi>) <hi>That the judgement of God is according to truth to them which commit ſuch things, and v.</hi> 3. <hi>thinkeſt thou that doeſt ſuch things that thou ſhalt eſcape the judgement of God?</hi>
+            </p>
+            <p>But of all others, ô ye Lords, who are leaſt to be pittied, why and with what face complain ye of the Army, for taking away your negative Voices in the upper Houſe, when as you who vote only for your ſelves, yet af<g ref="char:EOLhyphen"/>ter that (at two ſeverall times) ye had voted, and ſo ſent it down to the Houſe of Commons, that ye could not with juſtice and honour re<g ref="char:EOLhyphen"/>move the Biſhops out of the Lords Houſe, yet after with injuſtice and
+<pb n="5" facs="tcp:153735:6"/>diſhonour ye voted them forth, and from that Houſe which was their proper free-hold, by the juſt and lawfull preſcription of above 8000. yeares, to the third part of which time no Peer now in England can pre<g ref="char:EOLhyphen"/>tend, and who ſate and voted there not for themſelves alone but for God, the Church, and as the Repreſentative of all the Churchmen in <hi>Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p n="2">2. Why and with what face complain ye of the Army, for endeavou<g ref="char:EOLhyphen"/>ring to ſubject you to the Lawes of the Land equally with other Subjects, who have been the principall Authors and Actors in deſtroying both the Lawes and the freedoms of all the Subjects in England?</p>
+            <p n="3">3. Why and with what face complain ye of this Army as Rebellious, when as you your ſelves ſo lately in a ſtorme, or rather ſtroken with a Pannique feare, like your ſelves, that is, like valiant Lords, run away from a few boyes unarm'd, and fled to this Army for help as to your Tutelar God.</p>
+            <p n="4">4. Why and with what face can ye complain of the Army for level<g ref="char:EOLhyphen"/>ling you with other free-borne Subjects, and bringing you down to the Commons, when moſt of you have neither ſo much honeſty nor true ho<g ref="char:EOLhyphen"/>nour as moſt of the ordinary Gentlemen in England have, no nor yet can plead anything of worth in your ſelves for ſitting there in that high place, more then either purchaſe of titular honour for money, or Royall favour to ſome of your entituled Predeceſſors, to whoſe vertues notwithſtanding ye are as little of kin as perchance ye are rightly, if all were known, to their blood.</p>
+            <p n="5">5. Why and with what face complain ye of the Army, for cenſuring and ſentencing you, who ſuffered the Commons to cenſure and ſentence your own Members, contrary to the Priviledges of your Houſe, and the Lawes of this Kingdome? Heare the righteous Judge of all the world ſpeak; With what judgment ye judge ye ſhall be judged, (<hi>Math.</hi> 7.2.) And with what meaſure ye mete it ſhalbe meaſured to you again. For it is written, <hi>vengeance is mine, I will repay ſaith the Lord.</hi> Rom. 12.19.</p>
+            <p>And yet O ye Lords, Commons and City, why ſtand ye as men affrigh<g ref="char:EOLhyphen"/>ted at our Remonſtrances and Declarations? know rather that though we are and would be accounted juſt and righteous, yet we may and will act according to reaſon and prudence, with which God hath inriched us a<g ref="char:EOLhyphen"/>bove other ſinners.</p>
+            <p>And therefore be aſſured, that if ye ſhall repent and turne unto us, and go our waies, which are the waies of our Lord God, we likewiſe will re<g ref="char:EOLhyphen"/>pent and turne and be mercifull unto you, we will receive you into our
+<pb n="6" facs="tcp:153735:7"/>favour, and with us ye ſhall eat the good things of the land, and be ſatiſ<g ref="char:EOLhyphen"/>fied plentifully therewith.</p>
+            <p>But and if ye ſhall not ſpeedily returne and joyne with us, and to be commanded by us into whoſe hands the Lord of Hoſts hath delivered you and all yours; then know for a certain that what ever we have denounced ſhall come to paſſe, that is you ſhall be ſcattred among the People, and ſhall be devoured by wild beaſts, the mouth of the Lord of Hoſts hath ſpoken it.</p>
+            <p>But O Army, leaſt that I ſeem partiall in pleading your cauſe againſt the Lords Commons and City, making their crimes and errors as it were a cloke for your enormities and miſdoings, give me leave to ſpeak and to propound a queſtion to you or two to you in the name and behalf of the Lords Commons and City.</p>
+            <p>For if you truly be (as you pretend to be) the rod and ſword of God, appointed to reward and puniſh ungodly and unjuſt offenders; yet boaſt not your ſelf, neither ſay in your proſperity you ſhall not be moved, your mountain is made ſo ſtrong: or that becauſe theſe are ſinners and tranſ<g ref="char:EOLhyphen"/>greſſors, whom you have judged and condemned, that therefore you are inexcuſable and clear from all unrighteouſneſſe; for know that God who breaketh the bow, and cutteth the ſpeare in ſunder, and caſts the rod of his anger into the fire, when they have fulfilled his will can and will do the like to you, unleſſe you have good evidence and warrant from Gods revealed Will for what you have or ſhall intend to do; or if your de<g ref="char:EOLhyphen"/>ſignes or actions have any other biaſſed ends or ſelfe-intereſts beſides Gods glory, and the publike good.</p>
+            <p>And whether theſe things be ſo, let me interrogate you: Why, and with what face can you complaine of the late Treaty, the Movers thereof and the Propoſitions therein? who your ſelves ſo lately did Court the Royall party, and wooe the King to a peace and pardon by the tender of more advantagious Propoſalls on his behalfe, and his friends then were offered in the Treaty?</p>
+            <p n="2">2. Why, and with what face can you ſo ſuddenly call for fire from heaven to deſtroy ſuch and ſuch Delinquents, whenas in your for<g ref="char:EOLhyphen"/>mer Declarations and Remonſtrances you profeſſed, (and rightly) the contrary way, to be moſt agreeable both to Gods Word and humane prudence?</p>
+            <p n="3">3. Why, and with what face can you ſo ſuddenly caſhiere the Lords, and levell them, who ſo lately profeſſed the maintenance of them in all their Priviledges and Honors?</p>
+            <p n="4">
+               <pb n="7" facs="tcp:153735:7"/>
+4. <hi>Why, and with what face can you, who have ſworne to maintaine and defend the Lawes of this Kingdome, dare now not only in your own perſons and places to act, but to profeſſe against all thoſe Lawes, and to hold no<g ref="char:EOLhyphen"/>thing binding but your owne will and deſires, or the deſires and wills of ſuch of your own Party, whom alone you ſtile the godly, honeſt, &amp; well-affected?</hi>
+            </p>
+            <p n="5">5. <hi>Laſtly, can you think, that if ſelf-love, pride, or ignorant zeal, have ſo blinded your eyes, that you cannot ſee your ſelves, nor diſcover your own hearts, that therefore neither other men, no, nor God himſelf doth espie and abhorre all hypocriticall and abominable wayes? Be not deceived, nor think that you can long blind and deceive the world with vaine pretences and windie words of Godlineſſe, Juſtice, &amp; Righteouſneſſe, for God wil not thus be mocked, no, nor man will ever be thus fooled &amp; cheated; rather fore-ſee, feare, and prevent the juſt judgement of God, who doth and will in his time repay both in weight and meaſure, for</hi> Vengeance is mine, I will repay, ſaith the Lord, (who is the Lord of Hoſts) <hi>Rom,</hi> 12.19. <hi>and therefore can do it, as he hath done to an Army which twenty times exceeds yours.</hi>
+            </p>
+            <p>And that you may ſtop the mouthes of thoſe that murmure and repine at your Power &amp; Greatneſſe, and that you may in part redeem or ſatisfie for what you have treſpaſſed upon and wronged your Countreymen, ſuffer a word of exhortation, as from the whole Kingdome of <hi>England.</hi>
+            </p>
+            <p>We confeſſe you have propounded 12 <hi>Herculean</hi> Labors, and how we affect or relliſh them, you may gheſſe by ſome hints or glances in the preceding paſſages: but above the reſt, that one for the abridging, Engliſhing, and regulating the ſuperfluities, defects and abuſes of our Law as now in uſe, we ſo farre approve and commend, that we wiſh our Votes and deſires might be ſent up with yours: <hi>viz.</hi>
+            </p>
+            <p n="1">1. <hi>That we conceive the preſent Common Law now in practiſe, to be little more then as you tearm it, an hair-loome of the</hi> Norman <hi>Conqueſt.</hi>
+            </p>
+            <p n="2">2. <hi>That contrary to the Lawes of all beſt and wiſest Nations, our Law is a diſ-joynted, ſcattered &amp; confuſed thing, or a thing like a Taylors Cuſhi<g ref="char:EOLhyphen"/>on, ſo patched together out of many pieces, and that without all or any au<g ref="char:EOLhyphen"/>thoritie given thereunto, that it looks more like the new Serjeants Coats, or a motley Cloak-bag, then the Law of a wiſe and great People.</hi>
+            </p>
+            <p n="3">3. <hi>That this Law, all or the moſt part of it, is written in an unknowne Pedlar-like Language, which edifieth not the poore Subject, though it be<g ref="char:EOLhyphen"/>nefiteth the Lawyer.</hi>
+            </p>
+            <p n="4">4. <hi>That the Law, as now uſed, may have that word given it which was written on the head of the woman,</hi> Revel 17.5. Myſterie, <hi>and</hi> ſuch as worketh, 2 <hi>Theſſ.</hi> 2.10. with all deceivableneſſe of unrighteouſneſſe.</p>
+            <p n="5">5. <hi>That many Lawyers, but especially Pettifoggers and Officers may</hi>
+               <gap reason="missing" extent="2 pages">
+                  <desc>〈2 pages missing〉</desc>
+               </gap>
+               <pb n="10" facs="tcp:153735:8"/>the mutability of worldly happineſſe, and the juſt reward of Ambi<g ref="char:EOLhyphen"/>tion and Treachery.</p>
+            <p>And though at this time ſome of your Army and of the people, for your ſake may he droven to ſo much wickedneſſe, as to depoſe or murther their Liege Lord, the Vicegerent or God, without all Law; yet conceive you not, that either theſe, the reſt of the people of the old Army, or even of your owne new Modell, may not either return to their right wits, or retaine ſo much Loyalty or Religion, as to re<g ref="char:EOLhyphen"/>quite this act, (according as they are bound by all the Lawes of God, Nations, and this Kingdome.)</p>
+            <p>And whether your deſigne be to depoſe or murther the King, be<g ref="char:EOLhyphen"/>cauſe he did leave you &amp; lean to your oppoſites; or to deſtroy the <hi>Preſ<g ref="char:EOLhyphen"/>hyterian</hi> leaders, becauſe they did adhere to the King, &amp; againſt you; yet be aſſured, that as your aym is blood &amp; deſtruction, ſo deſtructi<g ref="char:EOLhyphen"/>on and blood ſhall be your end; remember <hi>Adonibezek,</hi> Judges 1.6.7. <hi>as I have done, ſo God hath requited me:</hi> and heare the Poet,</p>
+            <q>
+               <l>— nec enim lex juſtior ulla eſt,</l>
+               <l>Quam necis artifices arte perire ſuâ.</l>
+            </q>
+            <p>But above all heare God, Hof. 1 4. <hi>I will avenge the blood of Iezrael upon the houſe of Jehu.</hi> And although God gave <hi>Iehu</hi> an extraordinary Commiſſion for putting <hi>Aha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to death; yet this in <hi>Hoſ.</hi> 1.4. was denounced and executed againſt <hi>Jehu,</hi> becauſe he executed the Com<g ref="char:EOLhyphen"/>miſſion with a by-end of his own, and in an undue manner; and this Decree on <hi>Iehu's</hi> houſe and poſterity was to take affect ſpeedily: <hi>yet a little while</hi> ſayes the text, <hi>and I will avenge ſaith the Lord, &amp;c.</hi> and this little while was within one yeare and a halfe after the Decree, <hi>Zanch. in Hoſ.</hi> And let that be written as a perpetuall <hi>Memento</hi> o<g ref="char:EOLhyphen"/>ver the doores of your private Cloſets and publike Councells, or Courts, which you reade, 2. <hi>Kin.</hi> 21.23.24. That although King <hi>A<g ref="char:EOLhyphen"/>mon</hi> (as King <hi>Aha<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) was a great and moſt groſſe Idolater, &amp; ſuch as by Gods expreſſe Law, had incurred the penalty of death from God the Law-giver, yet his ſervants (his ſubjects) for attempting and executing the death of their lawfull King, are by God himſelfe judged, and ſo ſtiled Conſpirators; and they accordingly by the pro<g ref="char:EOLhyphen"/>vidence and juſtice of God are ſlaine (and that preſently upon their wicked act) by the people of the Land, which certainly it ſo expreſt &amp; recorded, that it might teach all, how much it is againſt Gods wil that ſubjects ſhould in any caſe conſpire, plot, or execute the death of him, who is their Lawfull Annoynted King. And accordingly as you ſhal act or repent the Lord proſper you, and this undoubtedly is the pray<g ref="char:EOLhyphen"/>er of the greateſt and beſt part of this Kingdome, who joyntly cry, <hi>Amen, Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:153735:8"/>
+            <pb facs="tcp:153735:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
